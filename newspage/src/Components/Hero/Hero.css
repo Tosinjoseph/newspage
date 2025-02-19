@@ -9,6 +9,9 @@
 
     
 }
+.hero{
+    font-family: 'Inter', sans-serif;
+}
 .lefttext{
     display: flex;
     justify-content: space-between;
