@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    flex-wrap: wrap;
+
+}
+.navmenu ul{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.navmenu ul li{
+    list-style: none;
+    outline: none;
+    font-size: 20px;
+    color: rgb(107, 103, 103);
+}
+
+
+@media (max-width: 701px){
+    .navmenu ul{
+        text-align: center;
+        margin: auto;
+    }
+}
