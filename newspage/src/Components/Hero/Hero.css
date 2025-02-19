@@ -38,6 +38,9 @@
     letter-spacing: 4px;
     cursor: pointer;
 }
+.lefttext button:hover{
+    background: rgb(202, 164, 164);
+}
 .hero .right{
     width: 260px;
     height: 410px;
